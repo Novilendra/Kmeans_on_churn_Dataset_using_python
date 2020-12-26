@@ -1,2 +1,2 @@
-# Machine_learning_-Kmeans_on_churn_Dataset-_using_python
+#Kmeans_on_churn_Dataset
 Machine Learning Practical Using Python
